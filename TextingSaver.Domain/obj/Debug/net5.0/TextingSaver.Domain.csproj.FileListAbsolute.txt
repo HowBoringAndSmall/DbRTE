@@ -1,0 +1,12 @@
+C:\Users\bogdan1\source\repos\TextingSaver.API\TextingSaver.Domain\bin\Debug\net5.0\TextingSaver.Domain.deps.json
+C:\Users\bogdan1\source\repos\TextingSaver.API\TextingSaver.Domain\bin\Debug\net5.0\TextingSaver.Domain.dll
+C:\Users\bogdan1\source\repos\TextingSaver.API\TextingSaver.Domain\bin\Debug\net5.0\ref\TextingSaver.Domain.dll
+C:\Users\bogdan1\source\repos\TextingSaver.API\TextingSaver.Domain\bin\Debug\net5.0\TextingSaver.Domain.pdb
+C:\Users\bogdan1\source\repos\TextingSaver.API\TextingSaver.Domain\obj\Debug\net5.0\TextingSaver.Domain.csproj.AssemblyReference.cache
+C:\Users\bogdan1\source\repos\TextingSaver.API\TextingSaver.Domain\obj\Debug\net5.0\TextingSaver.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bogdan1\source\repos\TextingSaver.API\TextingSaver.Domain\obj\Debug\net5.0\TextingSaver.Domain.AssemblyInfoInputs.cache
+C:\Users\bogdan1\source\repos\TextingSaver.API\TextingSaver.Domain\obj\Debug\net5.0\TextingSaver.Domain.AssemblyInfo.cs
+C:\Users\bogdan1\source\repos\TextingSaver.API\TextingSaver.Domain\obj\Debug\net5.0\TextingSaver.Domain.csproj.CoreCompileInputs.cache
+C:\Users\bogdan1\source\repos\TextingSaver.API\TextingSaver.Domain\obj\Debug\net5.0\TextingSaver.Domain.dll
+C:\Users\bogdan1\source\repos\TextingSaver.API\TextingSaver.Domain\obj\Debug\net5.0\ref\TextingSaver.Domain.dll
+C:\Users\bogdan1\source\repos\TextingSaver.API\TextingSaver.Domain\obj\Debug\net5.0\TextingSaver.Domain.pdb
